@@ -24,6 +24,6 @@
 | 24-07-2024 | Mathematics | Lecture delivered on intigration and derivatives |
 | 25-07-2024 | Dr. Arvind Dhingra | Gave brief discription regarding STEP - a programm runned by GNDEC for entreprenurs | 
 | 26-07-2024 | Mathematics Test | Test Conducted. |
-| 26-07-2024 | Valedictory | Closing ceremony of the induction programm.| 
+| 26-07-2024 | Valedictory | Closing ceremony of the induction programm. | 
 
  
