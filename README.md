@@ -2,15 +2,15 @@
 
 | Date | Resource Person | Description|
 | ---------- | ----------- | ----------|
-| 11-07-2024 | Peer Interaction | They taught us about basics of excel along with some benifts of chatgpt.|
+| 11-07-2024 | Peer Interaction | They taught us about basics of excel along with some benifts of chatgpt. |
 | 11-07-2024 | Universal Human Value | We got to know the true meaning of Aspiration and how value education is important in our life. |
-| 12-07-2024 | Dr. Amit Kamra | Dr. Kamra taught us about digital marketing and motivated us to join DMC club of GNDEC.|
-| 12-07-2024 | Dr. S.B.Singh | Sir taught us life lessons and shared is experiences.|
+| 12-07-2024 | Dr. Amit Kamra | Dr. Kamra taught us about digital marketing and motivated us to join DMC club of GNDEC. |
+| 12-07-2024 | Dr. S.B.Singh | Sir taught us life lessons and shared is experiences. |
 | 15-07-2024 | Mathematics | We solved different questions of differentiation. |
 | 15-07-2024 | Universal Human Values | Universal Human Values lecture delivrered. |
 | 16-07-2024 | Mathematics | We solved different questions of integration. |
 | 16-07-2024 | Peer Interaction | we got to know how to use Canva and what are the benefits of using canva. |
-| 17-07-2024 | Mr. Jaswinder Singh | Sir showed us various experiments of maths and sciences.|
+| 17-07-2024 | Mr. Jaswinder Singh | Sir showed us various experiments of maths and sciences. |
 | 17-07-2024 | NCC Team | Team told us about the benefits of joining NCC and showed different activities performed during NCC camps. |
 | 18-07-2024 | Prof. Harpal Singh Pannu | Told about the history of Punjabi literature and motivated us to stay connected with it. |
 | 18-07-2024 | Department Visit | DEPARTMENT VISIT. |
