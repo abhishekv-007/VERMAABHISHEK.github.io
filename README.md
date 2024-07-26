@@ -1,7 +1,7 @@
 # Activity Report of Student Induction Program 2024
 
 | Date | Resource Person | Description|
-| -----------| ----------- |----------|
+| ---------- | ----------- | ----------|
 | 11-07-2024 | Peer Interaction | They taught us about basics of excel along with some benifts of chatgpt.|
 | 11-07-2024 | Universal Human Value | We got to know the true meaning of Aspiration and how value education is important in our life. |
 | 12-07-2024 | Dr. Amit Kamra | Dr. Kamra taught us about digital marketing and motivated us to join DMC club of GNDEC.|
